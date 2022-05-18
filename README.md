@@ -6,8 +6,6 @@
 <p align="left">
 <a href="https://twitter.com/panic_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panic_100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-hussain-99b4721b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-hussain-99b4721b7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amanhussain134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanhussain134" height="30" width="40" /></a>
-<a href="https://discord.gg/TH7hWD4Hqz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TH7hWD4Hqz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
